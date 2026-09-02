@@ -1,0 +1,9 @@
+feature,standardized_coefficient,direction
+intercept,-0.4001066167230694,decreases churn score
+recency_days,0.2972571777878195,increases churn score
+frequency,-0.583822074494234,decreases churn score
+monetary,-0.1358588924536732,decreases churn score
+avg_order_value,-0.1780134888213413,decreases churn score
+margin_rate,-0.017518797371999066,decreases churn score
+tenure_days,0.14073769510597808,increases churn score
+acquisition_cost,0.0025111209626834203,increases churn score
