@@ -1,0 +1,9 @@
+{
+  "customers": 8000,
+  "orders": 60564,
+  "six_month_churn_rate": 0.4215,
+  "test_auc": 0.722,
+  "top_20pct_churn_capture": 0.319,
+  "priority_retention_audience": 1141,
+  "projected_12m_margin": 689568.31
+}

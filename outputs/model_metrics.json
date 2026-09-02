@@ -1,0 +1,8 @@
+{
+  "test_auc": 0.7220434424271973,
+  "test_churn_rate": 0.42103075644222776,
+  "top_20pct_capture": 0.3188548864758144,
+  "top_20pct_precision": 0.6701244813278008,
+  "score_threshold": 0.5928614116489485,
+  "test_customers": 2406
+}
